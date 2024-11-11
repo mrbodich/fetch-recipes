@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "803D95AA-2788-4B71-ACA4-0745BFB46DCA",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Packages\/RemoteImage",
+        "identifier" : "RemoteImageTests",
+        "name" : "RemoteImageTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:FetchRecipes.xcodeproj",
+        "identifier" : "E66C06FC2CDEBC2100A349A7",
+        "name" : "FetchRecipesTests"
+      }
+    }
+  ],
+  "version" : 1
+}

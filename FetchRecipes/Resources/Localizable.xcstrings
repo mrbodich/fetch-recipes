@@ -1,0 +1,150 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "cuisine" : {
+      "comment" : "Label: Cuisine",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuisine"
+          }
+        }
+      }
+    },
+    "cuisine: %@" : {
+      "comment" : "Template for displaying the cuisine name",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuisine: %@"
+          }
+        }
+      }
+    },
+    "home" : {
+      "comment" : "Label: Home",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        }
+      }
+    },
+    "recipe.details" : {
+      "comment" : "Label: Recipe details",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recipe Details"
+          }
+        }
+      }
+    },
+    "recipe.video" : {
+      "comment" : "Label: Recipe video",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recipe Video"
+          }
+        }
+      }
+    },
+    "recipes" : {
+      "comment" : "Label: Recipes",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recipes"
+          }
+        }
+      }
+    },
+    "recipes.empty" : {
+      "comment" : "Label describing the empty state of the recipes list",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No recipes loaded"
+          }
+        }
+      }
+    },
+    "recipes.error" : {
+      "comment" : "Label: Error describing the error state of the recipes list",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error loading recipes"
+          }
+        }
+      }
+    },
+    "recipes.load" : {
+      "comment" : "Label asking user to load recipes",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Load recipes"
+          }
+        }
+      }
+    },
+    "reload" : {
+      "comment" : "Label: Reload",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reload"
+          }
+        }
+      }
+    },
+    "sort" : {
+      "comment" : "Label: Sort",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sort"
+          }
+        }
+      }
+    },
+    "sort.by_cuisine_name" : {
+      "comment" : "Label indicating sorting option by cuisine name",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "by Cuisine"
+          }
+        }
+      }
+    },
+    "sort.by_name" : {
+      "comment" : "Label indicating sorting option by name",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "by Name"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

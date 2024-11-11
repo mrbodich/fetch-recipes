@@ -1,0 +1,24 @@
+{
+  "originHash" : "fa034d6042875a2e94f6db92f99e3be23a46aea33db7ac0ea296674cf455bc53",
+  "pins" : [
+    {
+      "identity" : "networking",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/freshOS/Networking.git",
+      "state" : {
+        "revision" : "a4bef0613f568ffc3a25366ed4af6cf4348501b6",
+        "version" : "2.0.3"
+      }
+    },
+    {
+      "identity" : "youtube-ios-player-helper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/youtube/youtube-ios-player-helper.git",
+      "state" : {
+        "revision" : "f57129cd4380ec0a74dd3a59da3270a1d653d59b",
+        "version" : "1.0.4"
+      }
+    }
+  ],
+  "version" : 3
+}

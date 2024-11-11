@@ -1,0 +1,42 @@
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+## Build generated
+/.build
+build/
+# /Packages
+xcuserdata/
+DerivedData/
+.swiftpm/config/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
+pods/
+Pods/
+# Podfile.lock
+Carthage/
+
+#Project ignores
+xcuserdata/
+
+#Fastlane ignores
+fastlane/.env
+fastlane/readme.md
+fastlane/report.xml
+Gemfile
+Gemfile.lock
+upload_dsym_results
+
+# Thumbnails
+._*
+
+### Linux ###
+*~
+.Trash-*
+.fuse_hidden*
+
+## Other
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint

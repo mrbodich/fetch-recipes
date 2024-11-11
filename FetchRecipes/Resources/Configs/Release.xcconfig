@@ -1,0 +1,15 @@
+//
+//  Release.xcconfig
+//  FetchRecipes
+//
+//  Created by Bogdan Chornobryvets on 11/9/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "Base.xcconfig"
+
+APP_NAME = $(inherited)
+
+BASE_API_URL = https:/$()/d3jbb8n5wk0qxi.cloudfront.net
