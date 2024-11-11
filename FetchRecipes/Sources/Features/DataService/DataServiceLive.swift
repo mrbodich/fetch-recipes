@@ -14,6 +14,7 @@ final class DataServiceLive: @unchecked Sendable {
     init(baseAPIUrl: String) {
         network = .init(baseURL: baseAPIUrl)
         network.sessionConfiguration = .default
+        network.sessionConfiguration.urlCache = nil
         network.jsonDecoderFactory = {
             Self.jsonDecoder
         }
